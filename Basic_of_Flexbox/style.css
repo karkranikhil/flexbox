@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    color:white;
+    font-size: 100px;
+    text-align: center;
+    text-shadow:4px 4px 0 rgba(0,0 0,0.1);
+    padding:10px;
+}
+
+/* color for each box*/
+.box1{  background:#1abc9c;  }
+.box2{  background:#ff6666;  }
+.box3{  background:#9b59b6;  }
+.box4{  background:#34495e;  }
+.box5{  background:#40e0d0;  }
+.box6{  background:#800080;  }
+.box7{  background:#7fffd4;  }
+.box8{  background:#ffd700;  }
+.box9{  background:#f0f8ff;  }
+.box10{  background:#ffa500;  }
+
+
+/* flexbox logic start from below*/
+.container{
+    /*inline-flex work as span*/
+    display: flex;
+    border:10px solid goldenrod;
+    height:100vh;
+}

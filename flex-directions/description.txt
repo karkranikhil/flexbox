@@ -1,0 +1,9 @@
+there are different types of directions
+1) row - default behaviour
+2) column - this convert the main axis to work from top to bottom
+3) row-reverse - right to left content
+3) Column-reverse - bottom to top content
+
+two types of axis
+1) main axis - left to right
+2) cross axix - top to bottom

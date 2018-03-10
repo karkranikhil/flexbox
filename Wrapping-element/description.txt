@@ -1,0 +1,12 @@
+.box work as an item
+
+flex-wrap by default is no-wrap
+
+flex-wrap:wrap // it wrap the div based on width
+
+flex-wrap:wrap-reverese //it start from top to bottom (cross axis) but content will be from left to right(main axis)
+
+
+if flex-direction is column and flex-wrap is wrap
+then
+element will go from top to bottom and wrap element will come in next column
